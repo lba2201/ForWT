@@ -1,0 +1,16 @@
+body {
+	font-family: "Chalkboard SE", "Comic Sans MS", cursive;
+	background-image: url(https://img.pikbest.com/backgrounds/20190618/cute-adorable-cat-kitten-sleeping-cartoon-doodle-seamless-pattern-wallpaper-cover-banner-v_1408451jpg!w700wp);
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+	h1 {font-size: 80px;}
+	h1 {color: #f0f0f0f;
+ 	text-shadow:
+    -2px -2px 0 white,
+     2px -2px 0 white,
+    -2px  2px 0 white,
+     2px  2px 0 white;
+}

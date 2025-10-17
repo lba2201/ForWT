@@ -1,0 +1,15 @@
+body {
+	font-family: "Chalkboard SE", "Comic Sans MS", cursive;
+	text-align: center;
+	background-image: url(https://img.pikbest.com/backgrounds/20190617/cute-adorable-cat-kitten-head-on-pink-cartoon-doodle-seamless-pattern-background-v_1407504jpg!w700wp);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 85vh;
+	h1 {font-size: 60px;}
+	h1 {color: #f0f0f0f;
+  text-shadow:
+    -2px -2px 0 white,
+     2px -2px 0 white,
+    -2px  2px 0 white,
+     2px  2px 0 white;
